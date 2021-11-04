@@ -1,4 +1,4 @@
-# Pancakeswap SDK
+PelicanSDK SDK
 
 Forked from the [Uniswap SDK](https://github.com/Uniswap/uniswap-v2-sdk/commit/a88048e9c4198a5bdaea00883ca00c8c8e582605).
 
@@ -7,6 +7,11 @@ You can refer to the Uniswap SDK documentation [uniswap.org](https://uniswap.org
 ## Running tests
 
 To run the tests, follow these steps. You must have at least node v10 and [yarn](https://yarnpkg.com/) installed.
+
+
+pelican Router : 0xEF28FBbEaA08738814B73D340089C8257924fecB on Ropsten
+
+pelican Factory : 0x77B73867Bce854aa1F2AE736f2ee4d465bCf3Afe
 
 First clone the repository:
 
